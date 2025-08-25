@@ -3,7 +3,7 @@
 A modern, AI-powered web app designed to help students **track attendance**, **prepare for exams**, and stay on top of academics with ease.
 Built with a clean UI, interactive charts, and a chatbot assistant that makes tracking your college life painless.
 
-🟢 Live Demo: [attendify-ishan.vercel.app](https://attendify-ishan.vercel.app)
+🟢 Live Demo: [[attendifyy-project-ai.vercel.app](https://attendifyyproject-ai.vercel.app/)]
 
 ---
 
@@ -135,6 +135,6 @@ npm run dev
 
 ## 👨‍💻 Developed By
 
-**Ishan** – Engineering Student (CSE)
-💻 Hosted at: [attendify-ishan.vercel.app](https://attendify-ishan.vercel.app)
+**Shruti** – Engineering Student (CSE)
+
 
